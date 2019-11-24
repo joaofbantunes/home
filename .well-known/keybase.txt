@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joaofbantunes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://antunes.dev
+  * I am joaofbantunes (https://keybase.io/joaofbantunes) on keybase.
+  * I have a public key ASBvrPtC359scBw_m0QHu7l5oZ3z6uufBMo952DXSMKZjQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a600ed7931610725c8471ef877353c212a75df5fc8f5a89aca67580275329e990a",
+      "host": "keybase.io",
+      "kid": "01206facfb42df9f6c701c3f9b4407bbb979a19df3eaeb9f04ca3de760d748c2998d0a",
+      "uid": "7fda9f2fcbb5c897d77b3b2bd809ae19",
+      "username": "joaofbantunes"
+    },
+    "merkle_root": {
+      "ctime": 1574625835,
+      "hash": "432d96621a3a3d60afcc0229cb4aa6be440ffda50f088217fab0677207dc9b852235d9e2d3074e5171c1c6211f7f2bc8f47fb653e0310228e1228e5459203162",
+      "hash_meta": "d02465e4b8bb4455c389768f926022252752a92b4799c693fa515979477bfaa9",
+      "seqno": 10750280
+    },
+    "service": {
+      "entropy": "Q/L+UYwyOzM3lVWzZNU4eBRQ",
+      "hostname": "antunes.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574625842,
+  "expire_in": 504576000,
+  "prev": "4106addc12c553f31757ea95f3a8d21b9c2136b15e264df5abb49786f22eeef5",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgb6z7Qt+fbHAcP5tEB7u5eaGd8+rrnwTKPedg10jCmY0Kp3BheWxvYWTESpcCDMQgQQat3BLFU/MXV+qV86jSG5whNrFeJk31q7SXhvIu7vXEIL6wnNh6RzXoHXsrT2CQrqp2/HkQB2YjDCFowxHaKUjVAgHCo3NpZ8RAyl5W0xnIzN+NFiEE+m2J7lUhl2X2Y44SlY8+3fa3Yybt7bqNZvgVdpPC7reg8Frm0pG4LIstTgxKaj7Jh8woCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINc9rAxCVP46+npUX9PEGGf9gS3qCDSKzUcAM0Koer4yo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joaofbantunes
+
+==================================================================
