@@ -3,7 +3,15 @@
 body {
   font-family: "Ubuntu", sans-serif;
   font-weight: normal;
-  background-color: #f2f2f2;
+  background-color: #e2e2e2;
+}
+
+.wrapper {
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
 }
 
 .fact-image {
@@ -38,8 +46,16 @@ a:visited {
   color: #770000;
 }
 
+a:hover {
+  color: #440000;
+}
+
 .social-media-list {
   list-style: none;
+}
+
+.social-media-list li > a > i {
+  font-size: x-large;
 }
 
 .social-media-list > li {
@@ -59,4 +75,8 @@ a:visited {
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+}
+
+.honeypot-hidden {
+  display: none;
 }
