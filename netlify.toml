@@ -30,7 +30,7 @@ status = 302
 
 # linkedin shortcut
 [[redirects]]
-from = "/twitch"
+from = "/linkedin"
 to = "https://linkedin.com/in/joaofbantunes"
 status = 302
 
