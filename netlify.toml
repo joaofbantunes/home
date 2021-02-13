@@ -2,7 +2,7 @@
 [[redirects]]
 from = "/"
 to = "https://blog.codingmilitia.com/about/"
-status = 302
+status = 302 # using 302 just in case one day want to have info here again 😛
 
 # youtube shortcut
 [[redirects]]
