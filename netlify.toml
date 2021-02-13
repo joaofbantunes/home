@@ -1,8 +1,9 @@
-# Annoy the bots
+# centralize things on the blog
 [[redirects]]
-from = "/h/*"
-to = "https://www.youtube.com/watch?v=082C6EdNvus"
-status = 302
+from = "/"
+to = "https://blog.codingmilitia.com/about/"
+status = 302 # using 302 just in case one day want to have info here again 😛
+force = true
 
 # youtube shortcut
 [[redirects]]
