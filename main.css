@@ -20,9 +20,6 @@ body {
   padding-left: 30px;
 }
 
-a {
-}
-
 a,
 a:visited {
   color: #770000;
@@ -40,4 +37,5 @@ a:hover {
 .links a {
   padding: 10px;
   font-size: large;
+  white-space: nowrap;
 }
