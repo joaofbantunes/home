@@ -1,14 +1,7 @@
-# redirect to Polywork
-[[redirects]]
-from = "/"
-to = "https://timeline.antunes.dev"
-status = 302 # using 302, in case one day want to have info here again
-force = true
-
 # youtube shortcut
 [[redirects]]
 from = "/youtube"
-to = "https://www.youtube.com/c/CodingMilitia"
+to = "https://www.youtube.com/CodingMilitia"
 status = 302
 
 # blog shortcut
@@ -21,6 +14,12 @@ status = 302
 [[redirects]]
 from = "/twitch"
 to = "https://twitch.tv/joaofbantunes"
+status = 302
+
+# mastodon shortcut
+[[redirects]]
+from = "/mastodon"
+to = "https://mastodon.social/@joaofbantunes"
 status = 302
 
 # twitter shortcut
