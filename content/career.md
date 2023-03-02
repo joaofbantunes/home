@@ -58,7 +58,7 @@ Framework, SQL Server 2012.
 
 **Dates:** 2016-03 - 2016-06
 
-The goal of the project is the development of microservice based platform to accommodate various types of projects.
+The goal of the project is the development of microservice based platform for field force management.
 
 My main responsibilities were to get out .NET Framework based code, developed on Windows, to run on Mono in Linux Docker containers (.NET Core wasn't released at that time); improvements to the existing codebase; setup a Docker cluster running the developed services and the necessary dependencies; provide guidance to younger, less experienced team members.
 
