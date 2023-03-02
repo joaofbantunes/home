@@ -1,0 +1,98 @@
+baseURL = 'https://antunes.dev/'
+languageCode = 'en-us'
+title = 'antunes.dev'
+theme = "PaperMod"
+
+[params]
+description = "Code, headbang, grouch, repeat!"
+images = ["logo.png"]
+author = "João Antunes"
+
+[params.profileMode]
+enabled = true                                                                                                         # needs to be explicitly set
+title = "Hey folks! 👋"
+subtitle = "Welcome to my homepage, where you can keep up with what I'm up to, as well as find some ways to reach out"
+# subtitle: "This is subtitle"
+# imageUrl: "<img location>"
+# imageWidth: 120
+# imageHeight: 120
+# imageTitle: my image
+
+[[params.profileMode.buttons]]
+name = "About Me"
+url = "about"
+
+[[params.profileMode.buttons]]
+name = "Career"
+url = "career"
+
+[[params.profileMode.buttons]]
+name = "Speaking"
+url = "speaking"
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "https://blog.codingmilitia.com"
+weight = 10
+
+[[menu.main]]
+identifier = "about"
+name = "About Me"
+url = "about"
+weight = 20
+
+[[menu.main]]
+identifier = "career"
+name = "Career"
+url = "career"
+weight = 30
+
+[[menu.main]]
+identifier = "speaking"
+name = "Speaking"
+url = "speaking"
+weight = 40
+
+[[params.socialIcons]]
+name = "rss"
+title = "Blog"
+url = "https://blog.codingmilitia.com"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/joaofbantunes"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://youtube.com/CodingMilitia"
+
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://mastodon.social/@joaofbantunes"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/joaofbantunes"
+
+[[params.socialIcons]]
+name = "twitter"
+title = "Twitter (though I'm not using it much these days)"
+url = "https://twitter.com/joaofbantunes"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://instagram.com/joaofbantunes"
+
+[[params.socialIcons]]
+name = "buymeacoffee"
+url = "https://buymeacoffee.com/joaofbantunes"
+
+[[params.socialIcons]]
+name = "cv"
+title = "Microsoft MVP"
+url = "https://mvp.microsoft.com/en-us/PublicProfile/5003375"
+
+# allow raw html in markdown files
+[markup.goldmark.renderer]
+unsafe = true
