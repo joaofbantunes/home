@@ -86,7 +86,7 @@ This short experience at Coriant could be briefly described as a "casting mistak
 
 Was part of 3 teams while at SAPO:
 
-- The Service Delivery Broker team, where we developed the core middleware in which all SAPO services are registered, managing all requests to those services.
+- The Service Delivery Broker team, where we developed the core middleware in which all SAPO services are registered, managing all requests to those services. We also developed some complimentary services, like an OpenID Connect compliant identity provider abstraction, in which applications could delegate the integration with third party providers.
 
 - The AdServer team, we developed services to support advertisement on the SAPO network.
 
