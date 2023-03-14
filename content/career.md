@@ -8,9 +8,21 @@ permalink: /career/
 
 **Note:** in this section, you'll find a timeline with the various roles I've had over the years. If you have some interest, but not enough to read this wall of text, I would pick as the most relevant experiences: [SAPO](#software-engineer--sapo), [Accenture](#software-engineer--accenture) and the [nearshore team at Devoteam Portugal](#principal-software-engineer--solutions-architect-devoteam-portugal).
 
-### TBD @ TBD
+### Software Architect @ Openvia Mobility
 
 **Dates:** 2023-03 - Present
+
+For a more exact description of what I do, I'll have to update this section in a few months, after I've been in the role for a while.
+
+In the meantime, I can share my expectations for this position.
+
+I expect this role as a software architect, to be what in other companies is called a principal software engineer, with maybe a couple of subtle differences, like a bit more influence on the technical matters of the company as a whole. I imagine we can think of it as a mix between principal engineer and chief architect.
+
+While not part of a specific team, I expect to work closely with the various teams, providing guidance and support, as well as helping folks level-up in their careers.
+
+Even though the title might suggest something like that, the goal is not to be some sort of "architecture dictator", where developers just implement what architects say, but to work with the teams to design the systems in the best possible way.
+
+Oh, and I also expect to chip-in with some code 🙂.
 
 ### Principal Software Engineer / Solutions Architect @ Devoteam Portugal
 
