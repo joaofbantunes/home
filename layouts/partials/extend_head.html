@@ -1,8 +1,3 @@
 {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
-<script
-async
-defer
-data-domain="antunes.dev"
-src="https://stats.antunes.dev/js/index.outbound-links.js"
-></script>
+<script defer data-domain="antunes.dev" data-api="/p/api/event" src="/p/js/script.js"></script>
 {{ end }}
