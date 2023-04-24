@@ -6,6 +6,19 @@ permalink: /speaking/
 
 Some public presentations I've had the opportunity of doing over the years.
 
+## 2023
+
+### OOPs, I did it again @ coimbra.NET
+
+{{< figure src="/assets/speaking/coimbradotnet.jpg" align=center alt="OOPs, I did it again" width=600 >}}
+
+**Date:** 2023/04/21
+
+**Quick info:** Had the opportunity to be a part of the first meetup of the newly formed coimbra.NET group, where I did my usual rant about how we're misusing primarily object-oriented programming languages, providing some ideas to try to improve our code.
+
+**Recording:** NA
+
+**About the event:** [link](https://www.meetup.com/dotnetcoimbra/events/292657958/)
 
 ## 2022
 
