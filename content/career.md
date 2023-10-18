@@ -12,17 +12,13 @@ permalink: /career/
 
 **Dates:** 2023-03 - Present
 
-For a more exact description of what I do, I'll have to update this section in a few months, after I've been in the role for a while.
+At Openvia, I'm the architecture lead for the Openvia Platform, which powers all the products we build. At its core, the Openvia Platform is a microservices based, event-driven system, organized by domains.
 
-In the meantime, I can share my expectations for this position.
+Working closely with the CTO and other colleagues, my main responsibilities encompass overseeing and guiding, from a technical perspective, the evolution and maintenance of our platform and products. This means helping design new solutions, advising on technology choices, doing proof of concepts to help guide choices, maintaining our AWS infrastructure, and a bunch more.
 
-I expect this role as a software architect, to be what in other companies is called a principal software engineer, with maybe a couple of subtle differences, like a bit more influence on the technical matters of the company as a whole. I imagine we can think of it as a mix between principal engineer and chief architect.
+Besides the main responsibilities described, I also try to keep myself close to the development teams, not only to help build the best software we can, but also to try and help my colleagues level-up in their careers. Always happy to jump on a chat or a pair programming session.
 
-While not part of a specific team, I expect to work closely with the various teams, providing guidance and support, as well as helping folks level-up in their careers.
-
-Even though the title might suggest something like that, the goal is not to be some sort of "architecture dictator", where developers just implement what architects say, but to work with the teams to design the systems in the best possible way.
-
-Oh, and I also expect to chip-in with some code 🙂.
+Although with all of this I code less than when I was a full-time software engineer, I do still code a bit, not only proof of concepts as mentioned earlier, but also some smaller core platform services.
 
 ### Principal Software Engineer / Solutions Architect @ Devoteam Portugal
 
