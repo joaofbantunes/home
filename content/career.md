@@ -8,7 +8,7 @@ permalink: /career/
 
 **Note:** in this section, you'll find a timeline with the various roles I've had over the years. If you have some interest, but not enough to read this wall of text, I would pick as the most relevant experiences: [SAPO](#software-engineer--sapo), [Accenture](#software-engineer--accenture) and the [nearshore team at Devoteam Portugal](#principal-software-engineer--solutions-architect-devoteam-portugal).
 
-### Software Architect @ Openvia Mobility
+### Platform Architecture Lead @ Openvia Mobility
 
 **Dates:** 2023-03 - Present
 
