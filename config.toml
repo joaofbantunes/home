@@ -2,6 +2,7 @@ baseURL = 'https://antunes.dev/'
 languageCode = 'en-us'
 title = 'antunes.dev'
 theme = "PaperMod"
+enableRobotsTXT = true
 
 [params]
 description = "Code, headbang, grouch, repeat!"
