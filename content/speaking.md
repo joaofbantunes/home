@@ -6,6 +6,20 @@ permalink: /speaking/
 
 Some public presentations I've had the opportunity of doing over the years.
 
+## 2024
+
+### Construir aplicações com arquiteturas event-driven, com a Openvia @ AWS Cloud Experience Portugal
+
+{{< figure src="/assets/speaking/2024-10-16-aws-cloud-experience-portugal.png" align=center alt="AWS Cloud Experience Portugal" width=600 >}}
+
+**Date:** 2024/10/16
+
+**Quick info:** Representing Openvia Mobility, along with our CTO Ricardo Vilela (and accompanied by AWS' own Leandro Damascena), had the opportunity to talk about how we're building our platform using event-driven architectures, in the context of AWS Cloud Experience Portugal.
+
+**Recording:** NA
+
+**About the event:** [link](https://aws.amazon.com/pt/events/cloud-days/portugal/)
+
 ## 2023
 
 ### OOPs, I did it again @ coimbra.NET
