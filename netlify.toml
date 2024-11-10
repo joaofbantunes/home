@@ -36,12 +36,6 @@ from = "/mastodon"
 to = "https://mastodon.social/@joaofbantunes"
 status = 302
 
-# twitter shortcut
-[[redirects]]
-from = "/twitter"
-to = "https://twitter.com/joaofbantunes"
-status = 302
-
 # linkedin shortcut
 [[redirects]]
 from = "/linkedin"
@@ -53,3 +47,16 @@ status = 302
 from = "/dev.to"
 to = "https://dev.to/joaofbantunes"
 status = 302
+
+# bluesky shortcut
+[[redirects]]
+from = "/bsky"
+to = "https://bsky.app/profile/joao.antunes.dev"
+status = 302
+
+# domain redirect
+[[redirects]]
+from = "https://joao.antunes.dev/*"
+to = "https://antunes.dev/:splat"
+status = 301
+force = true
