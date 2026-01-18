@@ -12,13 +12,15 @@ permalink: /career/
 
 **Dates:** 2023-03 - Present
 
-At Openvia, I'm the architecture lead for the Openvia Platform, which powers all the products we build. At its core, the Openvia Platform is a microservices based, event-driven system, organized by domains.
+At Openvia, I'm the architecture lead for the Openvia Platform, which powers all the products we build. At its core, the Openvia Platform is a microservices based, event-driven system, organized by domains, built following continuous delivery practices.
 
-Working closely with the CTO and other colleagues, my main responsibilities encompass overseeing and guiding, from a technical perspective, the evolution and maintenance of our platform and products. This means helping design new solutions, advising on technology choices, doing proof of concepts to help guide choices, maintaining our AWS infrastructure, and a bunch more.
+Working closely with the CTO and other colleagues, my main responsibilities encompass overseeing and guiding, from a technical perspective, the evolution and maintenance of our platform and products. This means helping design new solutions, advising on technology choices, doing proof of concepts to help guide choices, maintaining our AWS infrastructure, ways of working, and a bunch more.
 
-Besides the main responsibilities described, I also try to keep myself close to the development teams, not only to help build the best software we can, but also to try and help my colleagues level-up in their careers. Always happy to jump on a chat or a pair programming session.
+I also try to keep myself close to the development teams, not only to help build the best software we can, but also to try and help my colleagues level-up in their careers. Always happy to jump on a chat or a pair programming session.
 
-Although with all of this I code less than when I was a full-time software engineer, I do still code a bit, not only proof of concepts as mentioned earlier, but also some smaller core platform services.
+Although all of this might make it seem I don't code much, that's not the case, even though I do code less than when I was a full-time software engineer. Besides the aforementioned proof of concepts, I also build some smaller core platform services, as well as help out with something here and there, to give an extra push when needed.
+
+In summary, even though my title is principal software architect, in practice, thats mixed in with advisor to the CTO, software engineer, with a few sprinkles of something like a head of engineering here and there.
 
 ### Principal Software Engineer / Solutions Architect @ Devoteam Portugal
 
