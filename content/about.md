@@ -16,7 +16,7 @@ Over the years, I've worked across different projects and industries, building d
 
 If you feel like reading something, I have a blog (you can find the link in the homepage) where I talk about all things software development. I also do occasional presentations at meetups, conferences and related events.
 
-As a long-time advocate for remote work, I believe that high-trust, asynchronous cultures are the most effective way to build software, by focusing on results rather than presence.
+As a long-time advocate for remote work, I believe that high-trust cultures, with a mix of asynchronous and synchronous interactions, are the most effective way to build software, by focusing on results rather than presence.
 
 Outside the programming world, I'm a bit of gadget addict, headbanger (did you notice something familiar about the blog title?) and am found regularly ranting about something 🙂
 
