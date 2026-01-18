@@ -14,7 +14,7 @@ permalink: /career/
 
 At Openvia, I'm the architecture lead for the Openvia Platform, which powers all the products we build. At its core, the Openvia Platform is a microservices based, event-driven system, organized by domains, built following continuous delivery practices.
 
-Working closely with the CTO and other colleagues, my main responsibilities encompass overseeing and guiding, from a technical perspective, the evolution and maintenance of our platform and products. This means helping design new solutions, advising on technology choices, doing proof of concepts to help guide choices, maintaining our AWS infrastructure, ways of working, and a bunch more.
+Working closely with the CTO and other colleagues, my main responsibilities encompass overseeing and guiding, from a technical perspective, the evolution and maintenance of our platform and products. This means helping design new solutions, advising on technology choices, doing proof of concepts to help guide choices, maintaining our AWS infrastructure, and a bunch more.
 
 I also try to keep myself close to the development teams, not only to help build the best software we can, but also to try and help my colleagues level-up in their careers. Always happy to jump on a chat or a pair programming session.
 
