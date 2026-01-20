@@ -20,7 +20,7 @@ I also try to keep myself close to the development teams, not only to help build
 
 Although all of this might make it seem I don't code much, that's not the case, even though I do code less than when I was a full-time software engineer. Besides the aforementioned proof of concepts, I also build some smaller core platform services, as well as help out with something here and there, to give an extra push when needed.
 
-In summary, even though my title is principal software architect, in practice, that's mixed in with advisor to the CTO, software engineer, with a few sprinkles of something like a head of engineering here and there.
+In summary, even though my title is principal software architect, in practice, that's mixed in with advisor to the CTO, software engineer, infrastructure engineer, plus a few sprinkles of something like a head of engineering here and there.
 
 ### Principal Software Engineer / Solutions Architect @ Devoteam Portugal
 
