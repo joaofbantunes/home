@@ -6,6 +6,32 @@ permalink: /speaking/
 
 Some public presentations I've had the opportunity of doing over the years.
 
+## 2026
+
+### Chaos engineering 101 @ Jornadas da Engenharia Informática 2026 - UTAD (Universidade de Trás-os-Montes e Alto Douro)
+
+{{< figure src="/assets/speaking/2026-02-25-chaos-engineering-101.png" align=center alt="Chaos engineering 101" width=600 >}}
+
+**Date:** 2026/02/25
+
+**Quick info:** In the context of the Jornadas da Engenharia Informática 2026, had the opportunity to deliver a workshop where we applied basic chaos engineering principles to a simple application, showing how we can use it to understand how our systems behave under failure conditions and how we can improve them.
+
+**Recording:** NA
+
+**About the event:** [link](https://www.jei.pt) (sadly, the event's website doesn't provide much info and requires login)
+
+### Distributed systems: failure is always an option @ Jornadas da Engenharia Informática 2026 - UTAD (Universidade de Trás-os-Montes e Alto Douro)
+
+{{< figure src="/assets/speaking/2026-02-24-distributed-systems-failure-is-always-an-option.png" align=center alt="Distributed systems: failure is always an option" width=600 >}}
+
+**Date:** 2026/02/24
+
+**Quick info:** In the context of the Jornadas da Engenharia Informática 2026, had the opportunity to talk about distributed systems and how failure is always an option, providing some ideas to try to improve our systems.
+
+**Recording:** NA
+
+**About the event:** [link](https://www.jei.pt) (sadly, the event's website doesn't provide much info and requires login)
+
 ## 2024
 
 ### Construir aplicações com arquiteturas event-driven, com a Openvia @ AWS Cloud Experience Portugal
