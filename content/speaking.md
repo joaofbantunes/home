@@ -8,6 +8,16 @@ Some public presentations I've had the opportunity of doing over the years.
 
 ## 2026
 
+### Shaving the outbox pattern yak @ On .NET Live
+
+{{< figure src="/assets/speaking/2026-05-04-shaving-the-outbox-pattern-yak.jpg" align=center alt="Shaving the outbox pattern yak" width=600 >}}
+
+**Date:** 2026/05/04
+
+**Quick info:** Got the opportunity to talk about the transactional outbox pattern and why it's relevant in the context of distributed applications, with a nod to the OutboxKit library I built.
+
+**Recording:** [link](https://www.youtube.com/watch?v=JoPY0yfElK4)
+
 ### Chaos engineering 101 @ Jornadas da Engenharia Informática 2026 - UTAD (Universidade de Trás-os-Montes e Alto Douro)
 
 {{< figure src="/assets/speaking/2026-02-25-chaos-engineering-101.png" align=center alt="Chaos engineering 101" width=600 >}}
