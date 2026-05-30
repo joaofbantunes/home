@@ -93,10 +93,6 @@ url = "https://sessionize.com/joaofbantunes"
 name = "pluralsight"
 url = "https://app.pluralsight.com/profile/joaofbantunes"
 
-[[params.socialIcons]]
-name = "buymeacoffee"
-url = "https://buymeacoffee.com/joaofbantunes"
-
 # allow raw html in markdown files
 [markup.goldmark.renderer]
 unsafe = true
