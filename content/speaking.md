@@ -8,6 +8,16 @@ Some public presentations I've had the opportunity of doing over the years.
 
 ## 2026
 
+### Outbox meets MongoDB: No event left behind @ MongoDB & AWS User Groups Lisbon
+
+{{< figure src="/assets/speaking/2026-07-29-outbox-mongodb.jpg" align=center alt="Outbox meets MongoDB: No event left behind" width=600 >}}
+
+**Date:** 2026/07/29
+
+**Quick info:** Along with my colleague João Mendes, had the opportunity to talk about the importance of the transactional outbox pattern in the context of distributed applications, how we can implement it when using MongoDB as our database, with OutboxKit making another appearance as the base for our demos.
+
+**Recording:** NA
+
 ### Shaving the outbox pattern yak @ On .NET Live
 
 {{< figure src="/assets/speaking/2026-05-04-shaving-the-outbox-pattern-yak.jpg" align=center alt="Shaving the outbox pattern yak" width=600 >}}
