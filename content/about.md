@@ -8,20 +8,26 @@ permalink: /about/
 
 Hey folks! 👋
 
-My name is João Antunes and I am a seasoned technology professional focused on moving both systems and teams forward.
+My name is João Antunes and I've been at this whole software development thing for quite a while now.
 
-My experience covers the entire software development lifecycle, from initial problem discovery and system architecture, to infrastructure and organizational processes.
+I can't say I've done it all, but I can certainly say I've done a fair bit. Over the years, I've worked on a variety of projects, spanning different technologies and industries, initially as a software engineer, moving to leadership roles over the last few years (while remaining very hands-on).
 
-Over the years, I've worked across different projects and industries, building distributed applications based on (micro)services, web applications and even IPTV applications.
+Some of the things I've been interested and working on more recently are:
 
-If you feel like reading something, I have a blog (you can find the link in the homepage) where I talk about all things software development. I also do occasional presentations at meetups, conferences and related events.
+- Aligning technology with product vision
+- Helping colleagues level up their skills and careers
+- Designing distributed applications (cloud-native, microservices, event-driven, and a bunch of other such buzzwords)
+- Building developer platforms and improving overall DevEx
+  - From leading typical subjects such as DevOps ways of working and cloud infrastructure
+  - Through the adoption of self-managed tooling for observability, feature flags and others
+  - To building custom internal tools, templates, SDKs and shared services
+  - While also defining guidelines, best practices and ADRs
+- Observability engineering
 
-As a long-time advocate for remote work, I believe that high-trust cultures, with a mix of asynchronous and synchronous interactions, are the most effective way to build software, by focusing on results rather than presence.
+If you feel like reading something, I have a blog (you can find the link in the homepage) where I talk about all things software development. I also do occasional presentations at meetups, conferences and related events. Related to this, I've been awarded as a Microsoft MVP since 2019, in the developer technologies category.
 
-Outside the programming world, I'm a bit of gadget addict, headbanger (did you notice something familiar about the blog title?) and am found regularly ranting about something 🙂
+I'm a long-time advocate for remote work. This started simply because I was tired of wasting over 3 hours commuting, but it quickly became clear that besides the commute, the overall benefits far outweigh the drawbacks.
 
-Feel free to reach out through one of the various socials linked in the home page (I'm more active on Mastodon, Bluesky and LinkedIn), if you believe I can help out with something, like to discuss a topic I know about or need to be introduced to someone I know, I'll do my best.
+Outside the software engineering world, I'm a bit of gadget addict, headbanger (did you notice something familiar about the blog title?) and am found regularly ranting about something 🙂
 
-Since 2019, I've been awarded as a Microsoft MVP, in the developer technologies category.
-
-[{{< figure src="/assets/mvp.png" align=center alt="MVP Profile" width=600 >}}](https://mvp.microsoft.com/en-us/PublicProfile/5003375)
+Feel free to reach out through one of the various socials linked in the home page (I'm more active on Mastodon, Bluesky and LinkedIn), if you believe I can help out with something, like to discuss a topic I know about or need to be introduced to someone I know.
